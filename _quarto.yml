@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "NGY"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - href: experience.qmd
+        text: Experience
+      - href: presentations.qmd
+        text: Presentations
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
