@@ -1,0 +1,21 @@
+---
+title: Research
+---
+
+I was able to be a part of a research study with Dr. Sara Gombatto as part of my final doctoral project in physical therapy school.
+
+
+Currently, I work with Dr. Shahidi from UCSD on a research project involving Spinal Stenosis.
+
+# Doctoral Project
+
+My doctoral project involved 
+
+
+
+# Spinal Stenosis Research
+
+In the summer of 2024, I began performing research with <a href="https://profiles.ucsd.edu/bahar.shahidi">Dr. Bahar Shahidi</a>. 
+
+Dr. Shahidi gave me much freedom with this study and allowed me to perform literature reviews, data cleaning, data analysis, and to create figures for this study.
+During this study is where I became much more familiar with <i>R</i>, <i>Quarto</i>, and <i>Python</i> for data analysis and visualization.

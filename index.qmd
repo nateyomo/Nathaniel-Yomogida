@@ -1,7 +1,20 @@
 ---
-title: "Nathaniel G. Yomogida"
-subtitle: "Doctor of Physical Therapy"
+title: "Nate Yomogida"
+subtitle: "Physical Therapist"
 ---
 
+::: {.callout}
+
+Pic here
+:::
+
+I'm Nate and I am a Physical Therapist in San Diego, CA.
+
+
+- Physical Therapist
+- Researcher
+- Programmer
+- Surfer
+- Kickboxing
 
 

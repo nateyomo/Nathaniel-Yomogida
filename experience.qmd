@@ -11,14 +11,10 @@ title: Experience
 
 -->
 
-# Volunteer at SDSU Adapted Athletics Liftathon
 
-- November 16th 2024
-- Prepare athletes for lifting
-- Athlete recovery after event
+# Stretch-Affect
 
-# Student PT - Stretch-Affect
-
+- During my "clinical year" of physical therapy school, I had the privilege of working at <i>Stretch Affect</i>, a 
 - 8 week PT internship
 - Out-of-network outpatient Ortho
 - Developing plans of care for patients
@@ -27,9 +23,25 @@ title: Experience
     - Administering laser, cupping, estim, and NMES modalities
     - 3D screening using Kinotek
     - Assessing foot asymmetry and orthotic indication using the *footscan*.
+- During my internship, Stretch Affect became the official recovery partner for the San Diego Mojo Pro Women's Volleyball team.
+    - I was given the responsibility of creating programs on the Stretch Affect App to help guide the athletes around the equipment and to perform self-myofascial releases
+    - There was 3 parts to the program: Trunk/low back, Lower extremity, and upper extremity.
+- I presented an in-service on Dual-tasking, which was used to become a blog on the company website .
+    - <a href="https://www.stretchaffect.com/blog/dual-task-training">Modified Stretch Affect blog</a>
+    - <a href="https://yomokerst.com/The%20Archive/Neuroscience/Neurorehabilitation/dual_task.html">My presentation</a>
 
-# Student PT - Kaiser Irvine
+## SDSU Liftathon Eventg
 
+During my Stretch Affect clinical, I was able to 
+
+- November 16th 2024
+- Prepare athletes for lifting
+- Athlete recovery after event
+
+# Kaiser Permanente Inpatient
+
+- Kaiser Permanente in Irvine, CA 
+-  Studied under the tutelage of Dr. Pia Hernandez 
 - Internship as a Student physical therapist
 - Inpatient physical therapy
 

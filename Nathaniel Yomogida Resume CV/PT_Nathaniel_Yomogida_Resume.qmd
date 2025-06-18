@@ -3,8 +3,8 @@ title: "Nathaniel Yomogida's CV"
 author:
   firstname: Nathaniel
   lastname: Yomogida
-  address: "Carmel Mountain, San Diego, CA"
-  position: "Student Physical Therapist"
+  address: "San Diego, CA"
+  # position: "Physical Therapist"
   contacts:
     - icon: fa envelope
       text: nate.yomogida@gmail.com
@@ -16,112 +16,172 @@ author:
     #   text: example.com
     #   url: https://example.com
     - icon: fa brands linkedin
-      text: LinkedIn
-      url: https://www.linkedin.com/in/nate-yomogida-0198a227a/
+      text: "nateyomogida"
+      url: "www.linkedin.com/in/nateyomogida"
     - icon: fa brands x-twitter
-      text: "NateYomogida"
+      text: "&#64;NateYomogida"
       url: https://x.com/NateYomogida
-format: awesomecv-typst
+format: 
+  awesomecv-typst:
+    mainfont: "Helvetica"
 style:
   color-accent: 516db0
 ---
 
-## Clinical Experience
-
+# Licensure
 ```{=typst}
 #resume-entry(
-  title: "Student Physical Therapist",
-  location: "Irvine, CA",
-  date: "Aug 2024 - Oct 2024",
-  description: "Kaiser Permanente"
-)
-#resume-item[
-  - Inpatient
-  - EMR: Epic 
-  - % Caseload
-]
-
-#resume-entry(
-  title: "Student Physical Therapist",
-  location: "Miramar, CA",
-  date: "July 2023 - Aug 2023",
-  description: "All Star PT"
-)
-#resume-item[
-  - Outpatient Orthopedic PT
-  - EMR: Clinicient
-  - 50% Caseload
-]
-
-#resume-entry(
-  title: "PT Tech",
-  location: "Seal Beach, CA",
-  date: "Sept 2021 - May 2022",
-  description: "Seal Beach Physical Therapy"
+  title: "Licensed Physical Therapist",
+  location: "PT Board of California",
+  date: "May 2025-Present"
 )
 ```
 
-## Education
+# Clinical Experience
+
+```{=typst}
+#resume-entry(
+  title: "B project (Out-of-Network OP Ortho)",
+  location: "Encinitas, CA",
+  date: "Jan. 2025 - May 2025",
+  description: "Physical Therapy Internship"
+)
+#resume-item[
+  - CPI score: Entry level
+  - Managed acute/same-day to chronic musculoskeletal injuries for patients ranging from adolescents to older adults
+  - Managed scheduling and recruitment of my own caseload 
+  - Participated in community outreach by performing _pro bono_ physical therapy at the _Boardriders Surf Competition_
+  // - EMR: Custom EMR + _Acuity_
+]
+```
+
+```{=typst}
+#resume-entry(
+  title: "Stretch-Affect (Cash-based OP Ortho)",
+  location: "Mira Mesa, CA",
+  date: "Oct. 2024 - Dec. 2024",
+  description: "Physical Therapy Internship"
+)
+#resume-item[
+  - CPI score: Entry level
+  - Developed a recovery program for the _San Diego Mojo Pro Volleyball team_
+  - Filmed and wrote descriptions for their return to running online course
+  - Participated in community outreach at the _SDSU Adaptive Athletics Liftathon_
+  - Inservice: _Dual task training: Therapeutic distraction_
+  - EMR: _MyPTHub_ & _Zenoti_
+]
+```
+
+```{=typst}
+#resume-entry(
+  title: "Kaiser Permanente (Inpatient)",
+  location: "Irvine, CA",
+  date: "Aug. 2024 - Oct. 2024",
+  description: "Physical Therapy Internship"
+)
+#resume-item[
+  - CPI score: Entry level
+  // - Frequent communication and coordination with PTs, PTAs, RNs, CNAs, OT, SLP, and MDs
+  // - Successfully worked with non-english speaking patients using video translators, phone translators, and family members.
+  - Patient and family education and coordination on the plan of care and discharge planning
+  - Inservice: _Total Joint Repair Complications: Detection, Prevention, and Treatment_
+  // - EMR: _Epic_
+]
+
+#resume-entry(
+  title: "All Star Physical Therapy (In-Network OP Ortho)",
+  location: "Miramar, CA",
+  date: "July 2023 - Aug 2023",
+  description: "Physical Therapy Internship"
+)
+#resume-item[
+  - Rehabilitation of total joint replacements, low back pain, chronic pain, and overuse injuries for patients returning to sport or daily life
+  - Met average CPT/patient productivity metrics
+  // - Coordinating plan of care with PT aides
+  - EMR: _Clinicient_
+]
+
+// #resume-entry(
+//   title: "PT Aide (Outpatient Orthopedic)",
+//   location: "Seal Beach, CA",
+//   date: "2021 - 2022",
+//   description: "Seal Beach Physical Therapy"
+// )
+// #resume-item[
+//   - EMR: _WebPT_ and _HEP2Go_ Systems
+//   - Led patients through therapeutic exercises, safe modality application, scheduling, and billing
+// ]
+```
+
+
+# Education
 
 ```{=typst}
 #resume-entry(
   title: "Doctor of Physical Therapy",
-  location: "San Diego, California",
-  date: "2022 - 2025",
+  location: "San Diego, CA",
+  date: "2022 - May 2025",
   description: "San Diego State University",
 )
 
 #resume-entry(
-  title: "B.S. in Kinesiology - Exercise Science",
-  location: "Long Beach, California",
+  title: "Bachelor of Science in Kinesiology & Exercise Science",
+  location: "Long Beach, CA",
   date: "2018 - 2022",
   description: "California State University Long Beach",
 )
 #resume-item[
-  - President's Honor List
-  - Summa cum laude
+  - _President's Honor List_ and _Summa cum laude_
 ]
 ```
 
-## Research Experience
+# Research Experience
 
 ```{=typst}
 #resume-entry(
-  title: "Impact of Neurocognitive performance on sport performance and injury risk in Female Collegiate Athletes",
-  location: "Doctoral Thesis",
+  title: "Impact of Neurocognitive performance on sport performance and injury risk in athletes",
+  location: "SDSU",
   date: "Sept 2022 - May 2025",
-  description: "San Diego State University"
+  description: "Doctoral Thesis"
 )
-#resume-item[
-  - Qualitative data collection
-  - Qualtrics design and organization
-]
+// #resume-item[
+//   - Conducted comprehensive literature reviews to inform study design and methodology
+//   - Designed and organized Qualtrics surveys for data collection
+//   - Coordinated and scheduled collegiate athletes for study participation
+//   - Collected and analyzed qualitative data to assess neurocognitive and sport performance factors
+// ]
+
+#resume-entry(
+  title: "Research Assistant",
+  location: "UCSD",
+  date: "May 2024 - Present",
+  description: "Assessing risk factors and predictors for crossover to surgery for physical therapy patients with lumbar spinal stenosis"
+)
+// #resume-item[
+//   - Literature review, data cleaning, and data analysis of physical therapy patient EMRs 
+// ]
 ```
 
-
-
-
-## Skills
+# Certifications and Continued Education
 
 ```{=typst}
 #resume-entry(
-  title: "Programming Languages",
-  description: "R"
+  title: "Functional Techniques Certification",
+  location: "Gray Institute",
+  date: "Dec. 2024",
+  description: "AFS foundational training in functional movement spectrum for adaptable, effective programming. Focus on joint integration, proprioception, and force optimization to enhance performance and reduce injury risk."
 )
-#resume-entry(
-  title: "Markup Languages",
-  description: "Quarto & LaTeX"
-)
+
 ```
 
-## Interests
+<!-- # Interests
 
 ```{=typst}
 #resume-entry(
-  title: "Yomogida-Kerstein Lab",
-  location: "Yomogida-Kerstein Lab",
+  title: "Yomokerst Co-founder",
+  location: "Yomokerst",
   date: "Dec 2023 - Present",
   description: "A series of literature reviews and journal clubs I have written."
 )
 
-```
+``` -->

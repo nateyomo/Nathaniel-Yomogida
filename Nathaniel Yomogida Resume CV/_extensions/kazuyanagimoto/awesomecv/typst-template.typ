@@ -132,7 +132,7 @@ $endif$
   pad[
     #__justify_align[
       #set text(
-        size: 12pt,
+        size: 10pt, // Reduced from 12pt to 10pt or your preferred size
         weight: "bold",
         fill: color-darkgray,
       )
@@ -168,10 +168,10 @@ $endif$
   lastname: "",
 ) = {
   
-  pad(bottom: 5pt)[
+  pad(bottom: 0pt)[ // default: 5
     #block[
       #set text(
-        size: 32pt,
+        size: 18pt, // changed from 32
         style: "normal",
         font: (font-header),
       )
@@ -248,7 +248,7 @@ $endif$
 ) = {
   align(align-header)[
     #create-header-name(firstname: firstname, lastname: lastname)
-    #create-header-position(position: position)
+    // #create-header-position(position: position)
     #create-header-address(address: address)
     #create-header-contacts(contacts: contacts)
   ]
@@ -363,7 +363,7 @@ $endif$
   
   set page(
     paper: "a4",
-    margin: (left: 15mm, right: 15mm, top: 10mm, bottom: 10mm),
+    margin: (left: 10mm, right: 10mm, top: 10mm, bottom: 10mm), // (left: 15mm, right: 15mm, top: 10mm, bottom: 10mm)
     footer: [
       #set text(
         fill: gray,
@@ -393,11 +393,11 @@ $endif$
   
   show heading.where(level: 1): it => [
     #set block(
-      above: 1.5em,
-      below: 1em,
+      above: 1em, // was 1.5em 
+      below: 0.5em, // was 1em
     )
     #set text(
-      size: 12pt,
+      size: 12pt, // was 1em
       weight: "bold",
       fill: color-darkgray, // Set the default text color here
     )
